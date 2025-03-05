@@ -32,5 +32,3 @@ A simple and responsive calculator built using **HTML, CSS (internal), and JavaS
 This project is open-source and free to use. Feel free to modify and improve it!
 
 ---
-
-Happy Coding! 🎉
