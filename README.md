@@ -20,7 +20,7 @@ A simple and responsive calculator built using **HTML, CSS (internal), and JavaS
 5. Click `C` to clear the input.
 
 ## 📸 Screenshot
-![Calculator Preview]()
+![Calculator Preview](https://naved20.github.io/Calculater/)
 
 ## 📌 Technologies Used
 - **HTML**: Structure of the calculator
